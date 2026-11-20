@@ -1,0 +1,19 @@
+
+.container {
+display: flex;
+align-items: center;
+gap: 30px;
+width: 100%;
+}
+.mainimage{
+width: 40%;
+}
+img{
+    width:100%;
+    height:auto;
+    display:block;
+}
+.maintext{
+width: 60%;
+box-sizing: border-box;
+}
